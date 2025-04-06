@@ -20,7 +20,7 @@
 
 ## 💻 Technical Skills
 ### 🛠️: Languages, Tools and Frameworks:
-[![Languages](https://skillicons.dev/icons?i=c,cs,java,py,css,html,js,jquery)](https://skillicons.dev)
+[![Languages](https://skillicons.dev/icons?i=c,cs,dotnet,java,py,css,html,js,jquery)](https://skillicons.dev)
 [![Tools](https://skillicons.dev/icons?i=mysql,mongodb,nodejs,express,pycharm,visualstudio,vscode,eclipse,figma,git,bash)](https://skillicons.dev)
 [![Frameworks](https://skillicons.dev/icons?i=bootstrap,postman)](https://skillicons.dev)
 
